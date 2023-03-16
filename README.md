@@ -3,12 +3,21 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
-### Step 4: 
-### Step 5: 
+### Step 1:
+
+Get the first value from user
+### Step 2:
+
+Get the second value from user
+### Step 3:
+
+Substitute the values in the distance formula formula
+### Step 4:
+
+Print the values using distance formula
+### Step 5:
+
+End the program
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
@@ -28,3 +37,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+Thus the program executed successfully.
