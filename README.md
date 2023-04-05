@@ -12,6 +12,8 @@ Get the second value from user
 ### Step 3:
 
 Substitute the values in the distance formula formula
+![image](https://user-images.githubusercontent.com/118343461/229997728-76ce425b-7afe-4c43-b02d-2a53419ee63f.png)
+
 ### Step 4:
 
 Print the values using distance formula
